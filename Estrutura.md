@@ -5,6 +5,7 @@ cadastro-usuarios/
 │   └── auth.php            # Verificação de login (sessão)
 │
 ├── public/
+├── assets/style.css
 │   ├── index.php           # Listagem de usuários
 │   ├── create.php          # Cadastro de usuário
 │   ├── edit.php            # Edição de usuário
@@ -12,7 +13,7 @@ cadastro-usuarios/
 │   ├── register.php          # 
 │   ├── login.php           # Login
 │   ├── logout.php          # Logout
-│
+
 ├── src/
 │   └── User.php            # Classe com CRUD
 │
