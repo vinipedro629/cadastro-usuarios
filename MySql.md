@@ -1,4 +1,4 @@
--- Abra o prompt de comando e acesse o MySQL com seu usuário e senha:
+--- Abra o prompt de comando e acesse o MySQL com seu usuário e senha:
 mysql -u seu_usuario -p
 
 -- Após acessar o MySQL, digite os seguintes comandos linha por linha:
